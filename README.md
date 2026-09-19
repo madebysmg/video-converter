@@ -16,7 +16,7 @@
 ## 설치
 
 ```bash
-git clone https://github.com/seokmogu/video-converter.git
+git clone https://github.com/madebysmg/video-converter.git
 cd video-converter
 
 python -m venv venv
